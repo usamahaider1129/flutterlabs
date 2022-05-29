@@ -32,6 +32,7 @@ class _MyAppState extends State<MyApp> {
         body: Column(
           children: [
             Expanded(
+              
               child: Row(
                 children: [
                   Column(
